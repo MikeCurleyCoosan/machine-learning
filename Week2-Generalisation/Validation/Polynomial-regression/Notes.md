@@ -1,7 +1,8 @@
 
 # Generalisation is the goal of ML
 
-*Want good performance for new data
+*Want good performance for **new** data
+
 *How good the generalisation, is how well it performs on previously “unseen data” i.e. data not
 used to train the set.
 
